@@ -10,6 +10,7 @@ Time spent: 5:30 hours.
 
 * The implementation shouldn't use third-party libraries.
 
+* Apk: apk/app-debug.apk
 
 ## Architecture
 Simple layered architecture following the Solid principles.
