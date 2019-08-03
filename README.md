@@ -1,4 +1,4 @@
-#Challenge Acme
+# Challenge Acme
 
 ## Scope
 Design document for the challenge of Iñaki Villar.
